@@ -1,0 +1,5 @@
+{
+    "frequency": 5,
+    "httpPort": 3000,
+    "commission": 0.01
+}
